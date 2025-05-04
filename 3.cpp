@@ -1,6 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <omp.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 int parallelMin(vector<int> vec) {
